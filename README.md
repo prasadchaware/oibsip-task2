@@ -1,2 +1,2 @@
-# oibsip-task2
+# oibsip_task2
 PORTFOLIO
